@@ -2,8 +2,8 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/badge/REPO%20SIZE-4800kb-green)
-![GitHub language count](https://img.shields.io/badge/LANGUAGES-2-green)
+![GitHub repo size](https://img.shields.io/badge/REPO%20SIZE-700kb-green)
+![GitHub language count](https://img.shields.io/badge/LANGUAGES-1-green)
 ![Bitbucket open issues](https://img.shields.io/badge/OPEN%20ISSUES-NO%20ISSUES-green)
 
 <img src="project-image.png" alt=" ">
@@ -35,7 +35,7 @@ https://www.kaggle.com/datasets/tunguz/big-five-personality-test
   <tr>
     <td align="center">
       <a href="#">
-        <img src="image-1.jpg" width="100px;" alt=" "/><br>
+        <img src="image-1.png" width="100px;" alt=" "/><br>
         <sub>
           <b>KMeans Distortion Score indicates k=5</b>
         </sub>
@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/tunguz/big-five-personality-test
     </td>
     <td align="center">
       <a href="#">
-        <img src="image-2.jpg" width="100px;" alt=" "/><br>
+        <img src="image-2.png" width="100px;" alt=" "/><br>
         <sub>
           <b>Data classification</b>
         </sub>
