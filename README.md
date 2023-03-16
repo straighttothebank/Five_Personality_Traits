@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="image-1.png">
         <img src="image-1.png" width="100px;" alt=" "/><br>
         <sub>
           <b>KMeans Distortion Score indicates k=5</b>
@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/tunguz/big-five-personality-test
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="image-2.png">
         <img src="image-2.png" width="100px;" alt=" "/><br>
         <sub>
           <b>Data classification</b>
