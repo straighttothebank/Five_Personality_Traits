@@ -21,15 +21,15 @@ https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 
 ### :rocket: Objectives
 
-> Identify how many clusters can be obtained from the data.
-> Develop a tool that classifies the dataset by clusters.
-> Create an interface that indicates which cluster your personality belongs to.
+> - Identify how many clusters can be obtained from the data.
+> - Develop a tool that classifies the dataset by clusters.
+> - Create an interface that indicates which cluster your personality belongs to.
 
 ## :chart_with_upwards_trend: Results
 
-> Five clusters (k=5) were identified from the dataset.
-> It was possible to group all dataset responses into the 5 identified clusters.
-> Interface that interacts with the user returns the cluster that he belongs to from a quiz.
+> - Five clusters (k=5) were identified from the dataset.
+> - It was possible to group all dataset responses into the 5 identified clusters.
+> - Interface that interacts with the user returns the cluster that he belongs to from a quiz.
 <!--## :bar_chart: Images-->
 <table>
   <tr>
